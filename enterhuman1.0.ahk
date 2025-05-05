@@ -1,6 +1,6 @@
 ; EnterHuman 1.1 - Chase V
 ; Realistic Human-Like typing with word-aware rhythm, long-word pauses, and backspace quirks
-; Written with help of ChatGPT 4.0
+; General Formatting with ChatGPT 4.0
 ; 4-5-25
 ; 
 ; Run in AutoHotKey v2.x
