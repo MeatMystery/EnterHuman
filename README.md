@@ -22,8 +22,8 @@ EnterHuman/
 
 For installation and usage instructions, see the README for your platform:
 
-- [Windows instructions](Windows/README.md)
-- [macOS instructions](Mac/README.md)
+- [Windows instructions](Windows/README-Windows.md)
+- [macOS instructions](Mac/README-Mac.md)
 
 ## Features
 
